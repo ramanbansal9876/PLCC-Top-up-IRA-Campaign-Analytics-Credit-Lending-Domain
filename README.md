@@ -13,7 +13,13 @@ This project aimed to improve the targeting and efficiency of personal loan acqu
 ## 🧰 Tools & Technologies
 
 - **SQL** – Used throughout all stages: extracting large-scale customer and loan data, applying maturity-based and interest-rate-based filters, and finalizing shortlists with high targeting precision.
-- **Microsoft Excel** – Utilized for sharing finalized customer lists with the telecalling team and for month-on-month campaign performance tracking and reporting.
+- **Microsoft Excel** – Utilized for sharing finalized customer lists with the telecalling team and for version-controlled tracking of campaign performance.
+- **Power BI** – Developed interactive dashboards to monitor:
+  - Monthly campaign reach and conversion trends.
+  - Uplift vs baseline for Top-up and IRA campaigns.
+  - Call performance dashboards showing Attempt Intensity (calls per customer from total called batch) and Contact Intensity (calls per customer from total converted batch).
+  - Visualization of how many customers from our campaign batch were actually called, how many were connected, and how many remained uncontacted.
+  These dashboards provided real-time visibility to business teams and helped optimize ongoing strategy.
 - **PowerPoint** – Occasionally used to present campaign performance summaries and long-term trends to internal stakeholders.
 
 ## 🧾 Campaign Design & Targeting Criteria
