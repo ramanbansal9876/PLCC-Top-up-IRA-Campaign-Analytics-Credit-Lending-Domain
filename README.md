@@ -12,9 +12,9 @@ This project aimed to improve the targeting and efficiency of personal loan acqu
 
 ## 🧰 Tools & Technologies
 
-- **SQL** – for data extraction, transformation, and logic building across internal systems.
-- **Microsoft Excel** – for segmentation, filtering, and shortlisting customers to be shared with the outreach team.
-- **PowerPoint** – used periodically to showcase campaign impact and trend analysis to internal teams.
+- **SQL** – Used throughout all stages: extracting large-scale customer and loan data, applying maturity-based and interest-rate-based filters, and finalizing shortlists with high targeting precision.
+- **Microsoft Excel** – Utilized for sharing finalized customer lists with the telecalling team and for month-on-month campaign performance tracking and reporting.
+- **PowerPoint** – Occasionally used to present campaign performance summaries and long-term trends to internal stakeholders.
 
 ## 🧾 Campaign Design & Targeting Criteria
 
@@ -39,10 +39,10 @@ This project aimed to improve the targeting and efficiency of personal loan acqu
 
 ## 📊 Data Preparation & Execution
 
-- Extracted customer data using complex **SQL joins and filters**.
+- Extracted customer data using complex **SQL joins and filters** based on real-time attributes like loan maturity and interest rate.
 - Removed customers flagged under **DNC/NDNC** to maintain compliance.
-- Used **Excel** for banding, opportunity logic, and final filtering.
-- Tracked performance using **monthly feedback reports** from the outreach team and optimized future lists accordingly.
+- Used **Excel** to maintain version-controlled campaign sheets and historical tracking of performance.
+- Tracked execution using **monthly feedback reports** from the outreach team and refined targeting logic accordingly.
 
 ## 🤝 Cross-Team Collaboration
 
