@@ -57,11 +57,11 @@ This project aimed to improve the targeting and efficiency of personal loan acqu
 
 ## 📈 Outcome & Business Impact
 
-| Metric                            | Top-up Campaign         | IRA Campaign             |
+| Metric                            | Top-up Campaign         | IRA Campaign              |
 |----------------------------------|--------------------------|---------------------------|
 | Customers Targeted (Monthly Avg) | ~1.5 lakh                | ~2 lakh                   |
 | Conversion Rate Uplift           | ↑ 4x vs baseline         | ↑ 11.5x vs baseline       |
-| Incremental Profit (Annualized)  | ₹33 million              | ₹13 million               |
+| Incremental Profit (Monthly)     | ₹33 million              | ₹13 million               |
 
 - ✅ **Higher ROI on Outreach** – Avoided targeting the full 30 lakh eligible base by narrowing down to 12–15% high-propensity customers.
 - ✅ **Smarter Customer Engagement** – Trigger-based logic helped approach customers with the right offers at the right time.
