@@ -2,7 +2,7 @@
 # 💡 PLCC Top-up & IRA Campaign Analytics – Credit Lending Domain
 
 ## 🔍 Overview
-This project aimed to improve the targeting and efficiency of personal loan acquisition through two structured outbound campaigns: the **Top-up Campaign** and the **Interest Rate Advantage (IRA) Campaign**. Together, they targeted over 3.5 lakh customers per month and led to significant improvements in conversion rates and incremental profitability.
+This project aimed to improve the targeting and efficiency of personal loan acquisition through two structured outbound campaigns: the **Top-up Campaign** and the **Interest Rate Arbitrage (IRA) Campaign**. Together, they targeted over 3.5 lakh customers per month and led to significant improvements in conversion rates and incremental profitability.
 
 ## 🧩 Business Objective
 
@@ -33,7 +33,7 @@ This project aimed to improve the targeting and efficiency of personal loan acqu
 - **Action:** Shared filtered customer lists (excluding DNC/NDNC numbers) with the **telecalling team**.
 - **Outcome:** Conversion rate improved by **4x** compared to the baseline average.
 
-### 2. 📌 IRA Campaign (Interest Rate Advantage)
+### 2. 📌 IRA Campaign (Interest Rate Arbitrage)
 - **Goal:** Acquire customers with higher-interest loans from other institutions by offering better repayment terms.
 - **Logic:**
   - If the new loan interest rate < existing loan rate → offer directly.
