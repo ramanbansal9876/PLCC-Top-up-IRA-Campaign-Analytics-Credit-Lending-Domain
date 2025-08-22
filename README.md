@@ -1,5 +1,5 @@
 
-# 💡 PLCC Top-up & IRA Campaign Analytics – Credit Lending Domain
+# 💡 Targeted Loan Campaign Optimization for PLCC using SQL and Power BI – Credit Lending Domain
 
 ## 🔍 Overview
 This project aimed to improve the targeting and efficiency of personal loan acquisition through two structured outbound campaigns: the **Top-up Campaign** and the **Interest Rate Arbitrage (IRA) Campaign**. Together, they targeted over 3.5 lakh customers per month and led to significant improvements in conversion rates and incremental profitability.
